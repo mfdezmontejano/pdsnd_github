@@ -7,7 +7,8 @@
 Explore US Bikeshare Data
 
 ### Description
-Create a Python code which can be used to analyze US Bikeshare data and answer some key questions
+Create a Python code to analyze Bikeshare data from 3 american cities and answer some key questions
+
 
 ### Files used
 chicago.csv
@@ -15,5 +16,5 @@ washington.csv
 new_york_city.csv
 
 ### Credits
-https://classroom.udacity.com/
+https://udacity.com/
 
