@@ -9,7 +9,6 @@ Explore US Bikeshare Data
 ### Description
 Create a Python code to analyze Bikeshare data from 3 american cities and answer some key questions
 
-
 ### Files used
 chicago.csv
 washington.csv
